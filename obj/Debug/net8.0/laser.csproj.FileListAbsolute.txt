@@ -1,0 +1,4 @@
+D:\0zed\laser\obj\Debug\net8.0\laser.GeneratedMSBuildEditorConfig.editorconfig
+D:\0zed\laser\obj\Debug\net8.0\laser.AssemblyInfoInputs.cache
+D:\0zed\laser\obj\Debug\net8.0\laser.AssemblyInfo.cs
+D:\0zed\laser\obj\Debug\net8.0\laser.csproj.CoreCompileInputs.cache

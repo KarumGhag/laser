@@ -1,0 +1,3 @@
+﻿using PngToBinClass;
+
+PngToBin.Convert();
