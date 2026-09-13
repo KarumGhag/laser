@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("laser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8a432d99dfc4ccd854b039da6b01c359a1fb951")]
 [assembly: System.Reflection.AssemblyProductAttribute("laser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("laser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
