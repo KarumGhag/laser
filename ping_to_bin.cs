@@ -4,7 +4,7 @@ namespace PngToBinClass;
 
 public static class PngToBin
 {
-    public static void Convert()
+    public static List<List<PixelData>> Convert()
     {
         Bitmap image = new Bitmap("photos/me.png");
 
@@ -26,19 +26,25 @@ public static class PngToBin
 
             pixels.Add(horizontal);
         }
+
+        return pixels;
     }
 }
 
 public class PixelData
 {
-    int red;
-    int green;
-    int blue;
+    public int red;
+    public int green;
+    public int blue;
+    public int x;
+    public int y;
 
     public PixelData(int r, int g, int b, int x, int y)
     {
-        this.red = r;
-        this.green = g;
-        this.blue = b;
+        red = r;
+        green = g;
+        blue = b;
+        this.x = x;
+        this.y = y;
     }
 }
